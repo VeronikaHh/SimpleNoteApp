@@ -1,2 +1,2 @@
 # SimpleNoteApp
-MVVM, ROOM
+MVVM, Room, LiveDate, ViewModel, RecycleView
